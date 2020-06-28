@@ -1,2 +1,2 @@
 # First-Node-app
-A test for node js. Nothing is implemented.
+A test app for learning node js. Almost nothing is implemented yet.
